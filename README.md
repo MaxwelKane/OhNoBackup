@@ -34,3 +34,7 @@ youtube channels,
 github,
 digital ocean,
 bank account,
+
+
+flash drives scattered
+random ssd's around
