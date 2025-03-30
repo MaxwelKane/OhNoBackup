@@ -11,8 +11,9 @@ Okay, all of my files are on my laptop, google drive, laptop, desktop computer.
 
 My backup stack: 
 IDrive,
-AWS,
+AWS s3 glacier,
 Google Drive,
+Physical hard drive
 (Hopefully a nas one day)
 
 My Password Stack:
@@ -34,6 +35,7 @@ youtube channels,
 github,
 digital ocean,
 bank account,
+idrive
 
 
 flash drives scattered
