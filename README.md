@@ -87,6 +87,7 @@ I have 2 Yubikey Keys.
 ## YubiKey Pins 
 
 5C Pin Phone pass the one that’s like about working on urself. I don't know if it's standard, but 2 is ABC, 9 is WXYZ.
+967568
 
 My other pin should be 123456, but idk. 
 
