@@ -93,7 +93,7 @@ My other pin should be 123456, but idk.
 
 # Backup Codes
 Backup codes are kept in a seperate bitwarden account. 
-Without getting specific, this account is the one you use for financial stuff. The password is also pretty hard. 
+Without getting specific, this account is the one you use for financial stuff. The password is also pretty hard. Just +1
 
 
 ### Backup codes stored in second bitwarden account:
