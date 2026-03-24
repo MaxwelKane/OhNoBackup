@@ -27,6 +27,7 @@ The thing is, I have 3 computers.
 Desktop: There is litterally nothing on here. Probably good if it dies because of the fucked config I have on it.
 
 Primary Laptop: Everything should be backed up to the cloud in a Folder for primary laptop.
+You also have freefilesync into a bucket.
 
 Secondary Laptop:
 Everything should've been ported a while ago. There should be a folder for this as well under old laptop.
